@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310">
+  <defs>
+    <linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b0e13"/><stop offset="1" stop-color="#151922"/></linearGradient>
+  </defs>
+  <rect width="1200" height="310" rx="24" fill="url(#b)"/>
+  <text x="600" y="52" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700" fill="#fff">KMJ Open-Source Engineering Ecosystem</text>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <g transform="translate(55 100)">
+      <rect width="245" height="130" rx="18" fill="#10151c" stroke="#ed010b" stroke-width="2"/>
+      <text x="122" y="42" text-anchor="middle" font-size="23" font-weight="700" fill="#fff">CodeBridge</text>
+      <text x="122" y="76" text-anchor="middle" font-size="15" fill="#c7cbd2">AI ↔ authorized projects</text>
+      <text x="122" y="101" text-anchor="middle" font-size="14" fill="#ff4a50">MCP · policy · verification</text>
+    </g>
+    <g transform="translate(325 100)">
+      <rect width="245" height="130" rx="18" fill="#10151c" stroke="#ed010b" stroke-width="2"/>
+      <text x="122" y="42" text-anchor="middle" font-size="23" font-weight="700" fill="#fff">OmniDesk</text>
+      <text x="122" y="76" text-anchor="middle" font-size="15" fill="#c7cbd2">Secure remote access</text>
+      <text x="122" y="101" text-anchor="middle" font-size="14" fill="#ff4a50">direct-first · resilient</text>
+    </g>
+    <g transform="translate(595 100)">
+      <rect width="245" height="130" rx="18" fill="#10151c" stroke="#ed010b" stroke-width="2"/>
+      <text x="122" y="42" text-anchor="middle" font-size="23" font-weight="700" fill="#fff">Forge</text>
+      <text x="122" y="76" text-anchor="middle" font-size="15" fill="#c7cbd2">AI software engineering</text>
+      <text x="122" y="101" text-anchor="middle" font-size="14" fill="#ff4a50">evidence · automation · CI</text>
+    </g>
+    <g transform="translate(865 100)">
+      <rect width="280" height="130" rx="18" fill="#10151c" stroke="#ed010b" stroke-width="2"/>
+      <text x="140" y="42" text-anchor="middle" font-size="22" font-weight="700" fill="#fff">Desktop Commander</text>
+      <text x="140" y="76" text-anchor="middle" font-size="15" fill="#c7cbd2">Controlled engineering ops</text>
+      <text x="140" y="101" text-anchor="middle" font-size="14" fill="#ff4a50">remote · policy · verification</text>
+    </g>
+  </g>
+</svg>
