@@ -54,7 +54,7 @@ KMJ TECHNO develops systems that connect AI and engineers to real development en
 ## Open-source engineering ecosystem
 
 <p align="center">
-  <img src="assets/ecosystem.svg" alt="KMJ TECHNO open-source engineering ecosystem" width="100%">
+  <img src="assets/ecosystem-premium.webp" alt="KMJ TECHNO open-source engineering ecosystem" width="100%">
 </p>
 
 | Project | Purpose | Explore |
