@@ -38,6 +38,12 @@ Founder focus:
 **GitHub:** [@kmjtechno](https://github.com/kmjtechno)
 
 
+## Start here
+
+- **[KMJ CodeBridge](https://github.com/kmjtechno/kmj-codebridge)** — secure AI infrastructure for authorized development environments.
+- **[KMJ OmniDesk](https://github.com/kmjtechno/kmj-omnidesk)** — high-performance secure remote access.
+- **[KMJ TECHNO](https://kmjtechno.com)** — company, products, and commercial platform.
+
 ## What we are building
 
 - **AI infrastructure** that connects compatible AI clients to explicitly authorized development environments.
