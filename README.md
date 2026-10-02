@@ -41,6 +41,10 @@ Founder focus:
 ## Founder portrait
 
 <p align="center">
+  <img src="assets/founder-exact-original.jpg" alt="Narendra Singh Kushwah — Founder & CTO, KMJ TECHNO" width="320">
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/kmjtechno/kmj-codebridge/main/plugin/assets/logo.png" alt="KMJ TECHNO — Innovate | Build | Scale" width="170">
 </p>
 
