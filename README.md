@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Narendra Singh Kushwah — Founder & CTO, KMJ TECHNO" width="100%">
+  <img src="assets/founder-hero.webp" alt="Narendra Singh Kushwah — Founder & CTO, KMJ TECHNO" width="100%">
 </p>
 
 <p align="center"><strong>Founder & CTO · KMJ TECHNO</strong><br>
@@ -19,13 +19,12 @@ Building AI-native infrastructure, autonomous engineering systems, secure remote
 <tr>
 <td width="36%" align="center" valign="top">
 
-<img src="assets/founder-exact-original.jpg" alt="Narendra Singh Kushwah" width="260">
+<img src="assets/founder-portrait.webp" alt="Narendra Singh Kushwah — Founder & CTO, KMJ TECHNO" width="320">
 
 ### Narendra Singh Kushwah
 **Founder & CTO · KMJ TECHNO**
 
-AI Systems · Developer Tools  
-Secure Infrastructure · Automation
+<sub><strong>Founder & CTO</strong> &nbsp;·&nbsp; <strong>AI Systems</strong> &nbsp;·&nbsp; <strong>Developer Tools</strong></sub>
 
 [**KMJ TECHNO →**](https://kmjtechno.com)
 
