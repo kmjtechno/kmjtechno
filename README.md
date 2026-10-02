@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="KMJ TECHNO — Narendra Singh Kushwah, Founder & CTO" width="100%">
+  <img src="https://raw.githubusercontent.com/kmjtechno/kmj-codebridge/main/plugin/assets/logo.png" alt="KMJ TECHNO — Innovate | Build | Scale" width="220">
+</p>
+
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Narendra Singh Kushwah — Founder & CTO, KMJ TECHNO" width="100%">
 </p>
 
 <p align="center">
@@ -33,14 +37,6 @@ Founder focus:
 **Company:** [KMJ TECHNO](https://kmjtechno.com)  
 **GitHub:** [@kmjtechno](https://github.com/kmjtechno)
 
-
-I’m **Narendra Singh Kushwah**, Founder & CTO of **KMJ TECHNO**.
-
-KMJ TECHNO builds software and infrastructure around a simple engineering principle:
-
-> **AI should be able to act on real systems without turning control, authorization, and verification into afterthoughts.**
-
-Our work focuses on secure AI infrastructure, autonomous engineering, developer systems, remote access, cloud software, and industrial-calibration technology.
 
 ## What we are building
 
