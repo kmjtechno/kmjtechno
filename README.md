@@ -43,7 +43,7 @@ Founder focus:
 <table>
   <tr>
     <td width="42%" valign="top">
-      <img src="assets/founder-portrait.png" alt="Narendra Singh Kushwah — Founder & CTO, KMJ TECHNO" width="100%">
+      <img src="assets/founder-portrait.jpg" alt="Narendra Singh Kushwah — Founder & CTO, KMJ TECHNO" width="100%">
     </td>
     <td width="58%" valign="top">
       <p align="center">
