@@ -55,6 +55,14 @@ Founder focus:
 </p>
 
 <p align="center">
+  <strong>Founder & CTO</strong>
+  &nbsp;•&nbsp;
+  <strong>AI Systems</strong>
+  &nbsp;•&nbsp;
+  <strong>Developer Tools</strong>
+</p>
+
+<p align="center">
   Building AI-native infrastructure, autonomous engineering systems, secure remote-access technology,<br>
   developer platforms, enterprise software, and industrial calibration systems.
 </p>
