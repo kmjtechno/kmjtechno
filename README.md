@@ -2,225 +2,107 @@
   <img src="assets/profile-banner.svg" alt="Narendra Singh Kushwah — Founder & CTO, KMJ TECHNO" width="100%">
 </p>
 
+<p align="center"><strong>Founder & CTO · KMJ TECHNO</strong><br>
+Building AI-native infrastructure, autonomous engineering systems, secure remote access and developer platforms.</p>
+
 <p align="center">
   <a href="https://kmjtechno.com"><strong>Website</strong></a> ·
-  <a href="https://github.com/kmjtechno?tab=repositories"><strong>Open Source</strong></a> ·
+  <a href="https://github.com/kmjtechno?tab=repositories"><strong>Repositories</strong></a> ·
   <a href="https://github.com/kmjtechno/kmj-codebridge"><strong>CodeBridge</strong></a> ·
-  <a href="https://github.com/kmjtechno/kmj-omnidesk"><strong>OmniDesk</strong></a>
+  <a href="https://github.com/kmjtechno/kmj-omnidesk"><strong>OmniDesk</strong></a> ·
+  <a href="https://github.com/kmjtechno/kmj-forge"><strong>Forge</strong></a>
 </p>
 
-# Building AI-native engineering infrastructure
+---
 
-## Founder
+<table>
+<tr>
+<td width="36%" align="center" valign="top">
 
-### Narendra Singh Kushwah — Founder & CTO, KMJ TECHNO
+<img src="assets/founder-exact-original.jpg" alt="Narendra Singh Kushwah" width="260">
 
-Narendra Singh Kushwah leads KMJ TECHNO’s engineering direction across AI infrastructure, autonomous engineering systems, secure remote access, developer platforms, and enterprise software.
+### Narendra Singh Kushwah
+**Founder & CTO · KMJ TECHNO**
 
-The operating principle is straightforward:
+AI Systems · Developer Tools  
+Secure Infrastructure · Automation
 
-> **Give AI useful access to real engineering environments without giving up explicit authorization, policy boundaries, and verifiable outcomes.**
+[**KMJ TECHNO →**](https://kmjtechno.com)
 
-Founder focus:
+</td>
+<td width="64%" valign="top">
 
-- AI-native engineering infrastructure
-- autonomous software engineering
-- secure remote access
-- developer tools and MCP integrations
-- cloud and enterprise systems
-- industrial calibration and computer-vision workflows
+## Building the infrastructure for AI-assisted engineering
 
-**Company:** [KMJ TECHNO](https://kmjtechno.com)  
-**GitHub:** [@kmjtechno](https://github.com/kmjtechno)
+KMJ TECHNO develops systems that connect AI and engineers to real development environments with **explicit authorization, controlled execution, measurable performance, and verifiable outcomes**.
 
+### Founder focus
 
-## Founder portrait
+**AI-native engineering** — controlled AI access to real projects.
 
-<p align="center">
-  <img src="assets/founder-exact-original.jpg" alt="Narendra Singh Kushwah — Founder & CTO, KMJ TECHNO" width="320">
-</p>
+**Autonomous engineering** — inspect → modify → test → verify workflows backed by evidence.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kmjtechno/kmj-codebridge/main/plugin/assets/logo.png" alt="KMJ TECHNO — Innovate | Build | Scale" width="170">
-</p>
+**Secure remote access** — direct-first, resilient connectivity designed for constrained networks.
 
-<h3 align="center">Narendra Singh Kushwah</h3>
+**Developer infrastructure** — MCP integrations, build systems, CI-backed automation and engineering tools.
 
-<p align="center">
-  <strong>Founder & CTO · KMJ TECHNO</strong>
-</p>
+**Industrial systems** — calibration, projection, imaging and computer-vision workflows.
 
-<p align="center">
-  <strong>Founder & CTO</strong>
-  &nbsp;•&nbsp;
-  <strong>AI Systems</strong>
-  &nbsp;•&nbsp;
-  <strong>Developer Tools</strong>
-</p>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  Building AI-native infrastructure, autonomous engineering systems, secure remote-access technology,<br>
-  developer platforms, enterprise software, and industrial calibration systems.
-</p>
-
-<p align="center">
-  <strong>AI Infrastructure · Autonomous Engineering · Secure Remote Access · Developer Tools · Industrial Calibration</strong>
-</p>
-
-<p align="center">
-  <a href="https://kmjtechno.com"><strong>KMJ TECHNO</strong></a>
-  ·
-  <a href="https://github.com/kmjtechno"><strong>GitHub</strong></a>
-</p>
-
-
-## Start here
-
-- **[KMJ CodeBridge](https://github.com/kmjtechno/kmj-codebridge)** — secure AI infrastructure for authorized development environments.
-- **[KMJ OmniDesk](https://github.com/kmjtechno/kmj-omnidesk)** — high-performance secure remote access.
-- **[KMJ TECHNO](https://kmjtechno.com)** — company, products, and commercial platform.
-
-## What we are building
-
-- **AI infrastructure** that connects compatible AI clients to explicitly authorized development environments.
-- **Autonomous engineering systems** designed around inspect → modify → test → verify workflows.
-- **Secure remote-access technology** focused on speed, resilience, and controlled connectivity.
-- **Developer infrastructure** for real repositories, devices, build systems, and CI-backed engineering.
-- **Industrial software** for calibration, mapping, projection, imaging, and advanced technical workflows.
+## Open-source engineering ecosystem
 
 <p align="center">
   <img src="assets/ecosystem.svg" alt="KMJ TECHNO open-source engineering ecosystem" width="100%">
 </p>
 
-## Flagship open-source projects
+| Project | Purpose | Explore |
+|---|---|---|
+| **KMJ CodeBridge** | Secure MCP infrastructure connecting compatible AI clients to explicitly authorized development environments. | [Repository →](https://github.com/kmjtechno/kmj-codebridge) |
+| **KMJ OmniDesk** | High-performance secure remote access with a direct-first architecture and low-bandwidth focus. | [Repository →](https://github.com/kmjtechno/kmj-omnidesk) |
+| **KMJ Forge** | Evidence-driven, provider-independent software engineering workflows for humans and AI. | [Repository →](https://github.com/kmjtechno/kmj-forge) |
+| **KMJ Desktop Commander** | Policy-controlled remote engineering operations with explicit authorization boundaries. | [Repository →](https://github.com/kmjtechno/kmj-desktop-commander) |
 
-### 🔗 [KMJ CodeBridge](https://github.com/kmjtechno/kmj-codebridge)
+## Engineering principles
 
-**Secure AI infrastructure for authorized development environments.**
+> **Useful access without uncontrolled access. Automation without unverifiable outcomes.**
 
-CodeBridge connects ChatGPT, Claude, and compatible MCP clients to authorized projects across laptops, workstations, and VPS environments through scoped access, policy-controlled actions, and verifiable engineering workflows.
-
-**Core ideas:** vendor-neutral MCP · outbound device agents · guarded writes · administrator-approved quality gates · tenant-aware authorization.
-
-[Explore CodeBridge →](https://github.com/kmjtechno/kmj-codebridge)
-
----
-
-### 🖥️ [KMJ OmniDesk](https://github.com/kmjtechno/kmj-omnidesk)
-
-**High-performance secure remote access.**
-
-OmniDesk is being engineered around a direct-first architecture with emphasis on low-latency control, constrained-network performance, NAT traversal, reconnect resilience, and measurable trust boundaries.
-
-[Explore OmniDesk →](https://github.com/kmjtechno/kmj-omnidesk)
-
----
-
-### ⚙️ [KMJ Forge](https://github.com/kmjtechno/kmj-forge)
-
-**Evidence-driven software engineering for humans and AI.**
-
-Forge focuses on reproducible, provider-independent and automation-friendly engineering workflows with CI-backed evidence.
-
-[Explore Forge →](https://github.com/kmjtechno/kmj-forge)
-
----
-
-### 🛡️ [KMJ Desktop Commander](https://github.com/kmjtechno/kmj-desktop-commander)
-
-**Policy-controlled engineering operations.**
-
-Desktop Commander focuses on controlled remote and desktop engineering actions with explicit authorization and verification boundaries.
-
-[Explore Desktop Commander →](https://github.com/kmjtechno/kmj-desktop-commander)
-
-## Engineering philosophy
-
-```text
-Human / AI Client
-        │
-        ▼
-Identity + Authorization
-        │
-        ▼
-Policy-Controlled Tools
-        │
-        ▼
-Approved Project / Device
-        │
-        ▼
-Inspect → Modify → Test → Verify
-        │
-        ▼
-Evidence-backed Result
-```
-
-We optimize for:
-
-- **Security by design** — explicit boundaries instead of broad implicit trust.
-- **Least privilege** — expose only the project, device, action, and execution scope required.
-- **Verification** — engineering actions should end with evidence, not assumptions.
-- **Performance** — avoid unnecessary infrastructure in latency-sensitive paths.
-- **Resilience** — design for unstable networks, reconnects, partial failures, and real-world conditions.
-- **Open standards** — use interoperable protocols where they improve portability.
-- **Honest status reporting** — experimental or gated capabilities should be labeled as such.
-- **Minimal unnecessary dependencies** — keep core systems understandable, maintainable, and controllable.
+- **Security by design** — explicit trust boundaries and scoped authorization.
+- **Least privilege** — expose only the project, device and action required.
+- **Evidence over assumptions** — engineering actions should finish with verification.
+- **Performance by architecture** — remove unnecessary infrastructure from latency-sensitive paths.
+- **Resilience** — design for reconnects, unstable networks and partial failures.
+- **Open interoperability** — prefer standards where they improve portability.
+- **Honest status** — experimental or gated capabilities stay clearly labeled.
 
 ## Technology focus
 
 <p>
   <img alt="AI" src="https://img.shields.io/badge/AI-Infrastructure-ED010B?style=flat-square">
-  <img alt="MCP" src="https://img.shields.io/badge/MCP-Developer%20Infrastructure-111111?style=flat-square">
+  <img alt="MCP" src="https://img.shields.io/badge/MCP-Developer%20Tools-111111?style=flat-square">
   <img alt="Rust" src="https://img.shields.io/badge/Rust-Systems-111111?style=flat-square">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-24%2B-111111?style=flat-square">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-Engineering-111111?style=flat-square">
   <img alt="Python" src="https://img.shields.io/badge/Python-Automation-111111?style=flat-square">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-Infrastructure-111111?style=flat-square">
   <img alt="Windows" src="https://img.shields.io/badge/Windows-Engineering-111111?style=flat-square">
 </p>
 
-**AI · MCP · Rust · Node.js · Python · Linux · Windows · Networking · CI/CD · Computer Vision · Remote Access · Distributed Systems · Enterprise Software**
+**AI · MCP · Rust · Node.js · Python · Linux · Windows · Networking · CI/CD · Computer Vision · Remote Access · Distributed Systems**
 
-## Open-source direction
+## Build with KMJ TECHNO
 
-We publish engineering work that can be inspected, tested, reproduced, and improved.
+We welcome reproducible issues, interoperability improvements, security fixes, benchmarks, diagnostics, documentation and focused pull requests.
 
-Good contributions include:
-
-- security and authorization improvements;
-- MCP interoperability;
-- cross-platform fixes;
-- deterministic tests;
-- performance and reliability evidence;
-- safer editing and execution primitives;
-- diagnostics;
-- documentation and onboarding improvements.
-
-If a project solves a real problem for you, **⭐ star the repository**. A reproducible issue, integration note, benchmark, test case, or focused pull request is even more valuable.
-
-## For developers, teams, and partners
-
-KMJ TECHNO is building toward an ecosystem where AI systems can securely interact with development machines, VPS infrastructure, engineering projects, remote systems, and build pipelines—while maintaining explicit control over identity, permissions, execution, licensing, and verification.
-
-For product information and company updates, visit **[kmjtechno.com](https://kmjtechno.com)**.
+If a project is useful to you, **⭐ star the repository** and share the engineering evidence that helps make it better.
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kmjtechno/kmj-codebridge/main/plugin/assets/logo.png" alt="KMJ TECHNO — Innovate | Build | Scale" width="150">
+</p>
 
-### KMJ TECHNO
-
-**Innovate · Build · Scale**
-
-Building controlled, high-performance systems for the next generation of AI-assisted engineering.
-
-**Narendra Singh Kushwah · Founder & CTO**
-
-[Website](https://kmjtechno.com) · [Repositories](https://github.com/kmjtechno?tab=repositories)
-
-</div>
-
-<!--
-Discoverability: KMJ TECHNO, Narendra Singh Kushwah, AI infrastructure, MCP, autonomous engineering,
-developer tools, secure remote access, remote desktop, Rust, Node.js, Python, cloud infrastructure,
-CI/CD, enterprise software, computer vision, industrial calibration, open source.
--->
+<p align="center"><strong>INNOVATE · BUILD · SCALE</strong><br>
+AI Infrastructure · Autonomous Engineering · Secure Remote Access · Developer Tools<br><br>
+<a href="https://kmjtechno.com"><strong>kmjtechno.com</strong></a></p>
