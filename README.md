@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/founder-banner-premium.webp" alt="Narendra Singh Kushwah — Founder & CTO, KMJ TECHNO" width="100%">
+  <img src="assets/profile-banner.svg" alt="Narendra Singh Kushwah — Founder & CTO, KMJ TECHNO" width="100%">
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ Founder focus:
 ## Founder portrait
 
 <p align="center">
-  <img src="assets/founder-portrait-premium.webp" alt="Narendra Singh Kushwah — Founder & CTO, KMJ TECHNO" width="320">
+  <img src="assets/founder-exact-original.jpg" alt="Narendra Singh Kushwah — Founder & CTO, KMJ TECHNO" width="320">
 </p>
 
 <p align="center">
