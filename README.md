@@ -40,23 +40,35 @@ Founder focus:
 
 ## Founder portrait
 
-<table>
-  <tr>
-    <td width="42%" valign="top">
-      <img src="assets/founder-portrait.jpg" alt="Narendra Singh Kushwah — Founder & CTO, KMJ TECHNO" width="100%">
-    </td>
-    <td width="58%" valign="top">
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/kmjtechno/kmj-codebridge/main/plugin/assets/logo.png" alt="KMJ TECHNO — Innovate | Build | Scale" width="180">
-      </p>
-      <h3>Narendra Singh Kushwah</h3>
-      <p><strong>Founder & CTO · KMJ TECHNO</strong></p>
-      <p>Building AI-native infrastructure, autonomous engineering systems, secure remote-access technology, developer platforms, and enterprise software.</p>
-      <p><strong>Focus:</strong> AI Infrastructure · Autonomous Engineering · Secure Remote Access · Developer Tools · Industrial Calibration</p>
-      <p><a href="https://kmjtechno.com"><strong>KMJ TECHNO</strong></a> · <a href="https://github.com/kmjtechno"><strong>GitHub</strong></a></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/founder-portrait.jpg" alt="Narendra Singh Kushwah — Founder & CTO, KMJ TECHNO" width="360">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kmjtechno/kmj-codebridge/main/plugin/assets/logo.png" alt="KMJ TECHNO — Innovate | Build | Scale" width="170">
+</p>
+
+<h3 align="center">Narendra Singh Kushwah</h3>
+
+<p align="center">
+  <strong>Founder & CTO · KMJ TECHNO</strong>
+</p>
+
+<p align="center">
+  Building AI-native infrastructure, autonomous engineering systems, secure remote-access technology,<br>
+  developer platforms, enterprise software, and industrial calibration systems.
+</p>
+
+<p align="center">
+  <strong>AI Infrastructure · Autonomous Engineering · Secure Remote Access · Developer Tools · Industrial Calibration</strong>
+</p>
+
+<p align="center">
+  <a href="https://kmjtechno.com"><strong>KMJ TECHNO</strong></a>
+  ·
+  <a href="https://github.com/kmjtechno"><strong>GitHub</strong></a>
+</p>
+
 
 ## Start here
 
