@@ -11,6 +11,29 @@
 
 # Building AI-native engineering infrastructure
 
+## Founder
+
+### Narendra Singh Kushwah — Founder & CTO, KMJ TECHNO
+
+Narendra Singh Kushwah leads KMJ TECHNO’s engineering direction across AI infrastructure, autonomous engineering systems, secure remote access, developer platforms, and enterprise software.
+
+The operating principle is straightforward:
+
+> **Give AI useful access to real engineering environments without giving up explicit authorization, policy boundaries, and verifiable outcomes.**
+
+Founder focus:
+
+- AI-native engineering infrastructure
+- autonomous software engineering
+- secure remote access
+- developer tools and MCP integrations
+- cloud and enterprise systems
+- industrial calibration and computer-vision workflows
+
+**Company:** [KMJ TECHNO](https://kmjtechno.com)  
+**GitHub:** [@kmjtechno](https://github.com/kmjtechno)
+
+
 I’m **Narendra Singh Kushwah**, Founder & CTO of **KMJ TECHNO**.
 
 KMJ TECHNO builds software and infrastructure around a simple engineering principle:
