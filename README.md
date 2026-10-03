@@ -7,6 +7,7 @@ Building AI-native infrastructure, autonomous engineering systems, secure remote
 
 <p align="center">
   <a href="https://kmjtechno.com"><strong>Website</strong></a> ·
+  <a href="https://github.com/KMJ-TECHNO"><strong>Organization</strong></a> ·
   <a href="https://github.com/kmjtechno?tab=repositories"><strong>Repositories</strong></a> ·
   <a href="https://github.com/kmjtechno/kmj-codebridge"><strong>CodeBridge</strong></a> ·
   <a href="https://github.com/kmjtechno/kmj-omnidesk"><strong>OmniDesk</strong></a> ·
@@ -26,7 +27,7 @@ Building AI-native infrastructure, autonomous engineering systems, secure remote
 
 <sub><strong>Founder & CTO</strong> &nbsp;·&nbsp; <strong>AI Systems</strong> &nbsp;·&nbsp; <strong>Developer Tools</strong></sub>
 
-[**KMJ TECHNO →**](https://kmjtechno.com)
+[**KMJ TECHNO →**](https://kmjtechno.com) · [**GitHub Organization →**](https://github.com/KMJ-TECHNO)
 
 </td>
 <td width="64%" valign="top">
